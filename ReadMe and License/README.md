@@ -1,6 +1,10 @@
 # Horiseon Semantic Html, image alt text and Grouping CSS Practice
 
-[[Horiseon Webpage]](Horiseon-Screenshot.png)
+![[Horiseon Webpage]](Horiseon-Screenshot.png)
+
+## Link to live project
+
+https://ryanpauldutton.github.io/Challenge1/
 
 ## Description
 
